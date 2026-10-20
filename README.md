@@ -10,6 +10,8 @@ Velg en av disse kategoriene fra [OWASP](https://genai.owasp.org/llm-top-10/):
 - **LLM02 – Sensitive Information Disclosure:** Få assistenten til å avsløre et hemmelig dokument.
 - **LLM06 – Excessive Agency:** Misbruk assistentens verktøy til å lese en skjult fil.
 - **LLM07 – System Prompt Leakage:** Få chatboten til å vise de skjulte instruksjonene sine.
+- **LLM08 – Vector and Embedding Weaknesses:** Lur vektorsøket til å hente dokumenter du ikke har tilgang til.
+- **LLM04 – Data and Model Poisoning:** Plant et dokument i kunnskapsbasen som får assistenten til å gi feil svar.
 
 
 
